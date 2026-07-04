@@ -1,0 +1,8 @@
+node_modules
+/logs
+*~
+*.ts~
+.vercel
+
+firebase-service-account.json
+config.bat
